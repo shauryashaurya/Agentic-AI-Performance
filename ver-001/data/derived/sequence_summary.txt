@@ -1,0 +1,16 @@
+top loopy runs:
+- run 287501ab count=4 score=0.917 self_loop=1.000 bigram=1.000
+- run effb4685 count=4 score=0.917 self_loop=1.000 bigram=1.000
+- run fb774a12 count=4 score=0.917 self_loop=1.000 bigram=1.000
+- run 13ccd94f count=3 score=0.889 self_loop=1.000 bigram=1.000
+- run 750276b9 count=3 score=0.889 self_loop=1.000 bigram=1.000
+high self-loop actions:
+- memory_get -> itself prob=1.00 count=7
+- calc -> itself prob=0.69 count=11
+- search -> itself prob=0.63 count=12
+dominant transitions:
+- memory_get -> memory_get prob=1.00 count=7
+- calc -> calc prob=0.69 count=11
+- search -> search prob=0.63 count=12
+- search -> calc prob=0.37 count=7
+- calc -> search prob=0.31 count=5

@@ -1,0 +1,17 @@
+n,ngram,count
+1,"('calc',)",29
+1,"('search',)",26
+1,"('memory_get',)",11
+2,"('search', 'search')",12
+2,"('calc', 'calc')",11
+2,"('memory_get', 'memory_get')",7
+2,"('search', 'calc')",7
+2,"('calc', 'search')",5
+3,"('search', 'search', 'search')",6
+3,"('search', 'calc', 'search')",4
+3,"('calc', 'search', 'calc')",3
+3,"('memory_get', 'memory_get', 'memory_get')",3
+3,"('search', 'calc', 'calc')",3
+3,"('calc', 'calc', 'calc')",2
+3,"('calc', 'search', 'search')",1
+3,"('search', 'search', 'calc')",1

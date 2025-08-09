@@ -1,0 +1,1 @@
+{"run_id": "6b3bb71b-8ecd-493c-951f-49457f809a63", "ts": "2025-08-09T16:30:25.378011Z", "elapsed_s": 0.10331610000139335, "samples": [{"i": 0, "ok": true}, {"i": 1, "ok": true}, {"i": 2, "ok": true}, {"i": 3, "ok": true}, {"i": 4, "ok": false}, {"i": 5, "ok": true}, {"i": 6, "ok": true}, {"i": 7, "ok": true}, {"i": 8, "ok": false}, {"i": 9, "ok": true}]}
