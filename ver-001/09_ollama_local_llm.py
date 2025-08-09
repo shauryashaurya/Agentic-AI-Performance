@@ -4,7 +4,7 @@
 #     install ollama and run the server in the background
 #     pull a small model once, for example: ollama pull phi3:mini or ollama pull qwen2.5:0.5b or ollama pull llama3.2:1b
 #     default config here uses phi3:mini, change MODEL_NAME below if you prefer another tiny model
-#
+
 # ensure sections 1–8 files exist if you want to reuse the same data folder
 # run this sibling script directly
 #     python 09_ollama_local_llm.py
